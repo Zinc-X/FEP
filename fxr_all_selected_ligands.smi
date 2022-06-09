@@ -1,0 +1,14 @@
+O=C([O-])c5ccc(CN4C(=O)C2(CCN(S(=O)(=O)c1cccs1)CC2)c3cc(Br)ccc34)cc5   FXR_10
+[O-]C(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c3ccccc3Cl)c3cc(Br)ccc23)cc1	FXR_12
+[O-]C(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c3ccccc3Br)c3cc(Br)ccc23)cc1	FXR_74
+[O-]C(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c3ccccc3)c3cc(Br)ccc23)cc1	FXR_76
+O=C([O-])c5ccc(CN4C(=O)C2(CCN(S(=O)(=O)c1cccc(Cl)c1Cl)CC2)c3cc(Br)ccc34)cc5  FXR_77
+O=C([O-])c5ccc(CN4C(=O)C2(CCN(S(=O)(=O)c1c(Cl)cccc1Cl)CC2)c3cc(Br)ccc34)cc5   FXR_78
+O=C([O-])c5cccc(CN4C(=O)C2(CCN(S(=O)(=O)c1cccs1)CC2)c3cc(Br)ccc34)c5   FXR_79
+Cc1c(Cl)cccc1S(=O)(=O)N2CCC5(CC2)C(=O)N(Cc3ccc(C(=O)[O-])cc3)c4ccc(Br)cc45   FXR_81
+O=C([O-])c5ccc(CN4C(=O)C2(CCN(S(=O)(=O)c1cccc(Cl)c1F)CC2)c3cc(Br)ccc34)cc5   FXR_82
+O=C([O-])c5ccc(CN4C(=O)C2(CCN(S(=O)(=O)c1cc(Cl)ccc1Cl)CC2)c3cc(Br)ccc34)cc5   FXR_83
+[O-]C(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c3ccccc3F)c3cc(Br)ccc23)cc1	FXR_84
+Cc1ccccc1S(=O)(=O)N1CCC2(CC1)C(=O)N(Cc1ccc(cc1)C(=O)[O-])c1ccc(Br)cc21	FXR_85
+[O-]C(=O)c1ccc(CN2C(=O)C3(CCN(CC3)S(=O)(=O)c3ccccc3C(F)(F)F)c3cc(Br)ccc23)cc1	FXR_88
+O=C([O-])c5ccc(CN4C(=O)C2(CCN(S(=O)(=O)c1ccc(Cl)cc1)CC2)c3cc(Br)ccc34)cc5   FXR_89
